@@ -6,3 +6,6 @@ https://saviosoaresc.nicepage.io/
 
 https://saviosoaresc.nicepage.io/ArtLifeQuadros.html
 (Página da loja ArtLife Quadros)
+
+
+![ArtLifeQuadros](https://github.com/saviosoaresc/Meu_Curriculo/assets/62923486/944e2fdd-ef7b-41c0-af5b-8e854172826e)
